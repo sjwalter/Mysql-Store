@@ -1,0 +1,1 @@
+exports = {dbUser: 'user', dbPassword: 'pass', dbHost: 'localhost'};
