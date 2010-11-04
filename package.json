@@ -1,0 +1,8 @@
+{
+    "name": "mysql-store",
+    "description": "MySQL session store for Connect",
+    "version": "0.1.0",
+    "author": "Stephen Walters <stephenwalters@gmail.com>",
+    "directories": { "lib" : "." },
+    "engines": { "node": ">= 0.1.98"}
+}
