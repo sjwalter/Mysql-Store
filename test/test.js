@@ -27,6 +27,7 @@ s.init(function(){
                         } else {
                             console.log('Count is incorrect: ' + count);
                         }
+                        process.exit(0);
                     });
                 });
             });
