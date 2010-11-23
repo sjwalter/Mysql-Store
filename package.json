@@ -4,5 +4,6 @@
     "version": "0.1.0",
     "author": "Stephen Walters <stephenwalters@gmail.com>",
     "directories": { "lib" : "." },
+    "main": "./lib",
     "engines": { "node": ">= 0.1.98"}
 }
